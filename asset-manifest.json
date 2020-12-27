@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Fibonatix/static/css/main.41bf069f.chunk.css",
-    "main.js": "/Fibonatix/static/js/main.821c78c6.chunk.js",
-    "main.js.map": "/Fibonatix/static/js/main.821c78c6.chunk.js.map",
+    "main.css": "/Fibonatix/static/css/main.3c2c778f.chunk.css",
+    "main.js": "/Fibonatix/static/js/main.d58090df.chunk.js",
+    "main.js.map": "/Fibonatix/static/js/main.d58090df.chunk.js.map",
     "runtime-main.js": "/Fibonatix/static/js/runtime-main.f67de33e.js",
     "runtime-main.js.map": "/Fibonatix/static/js/runtime-main.f67de33e.js.map",
     "static/js/2.11fd2958.chunk.js": "/Fibonatix/static/js/2.11fd2958.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.443d5829.chunk.js": "/Fibonatix/static/js/3.443d5829.chunk.js",
     "static/js/3.443d5829.chunk.js.map": "/Fibonatix/static/js/3.443d5829.chunk.js.map",
     "index.html": "/Fibonatix/index.html",
-    "static/css/main.41bf069f.chunk.css.map": "/Fibonatix/static/css/main.41bf069f.chunk.css.map",
+    "static/css/main.3c2c778f.chunk.css.map": "/Fibonatix/static/css/main.3c2c778f.chunk.css.map",
     "static/js/2.11fd2958.chunk.js.LICENSE.txt": "/Fibonatix/static/js/2.11fd2958.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/Fibonatix/static/media/Ubuntu-Regular.fbdecfce.ttf",
     "static/media/background.jpg": "/Fibonatix/static/media/background.05217d6c.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.f67de33e.js",
     "static/js/2.11fd2958.chunk.js",
-    "static/css/main.41bf069f.chunk.css",
-    "static/js/main.821c78c6.chunk.js"
+    "static/css/main.3c2c778f.chunk.css",
+    "static/js/main.d58090df.chunk.js"
   ]
 }
