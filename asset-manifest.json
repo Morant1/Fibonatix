@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Fibonatix/static/css/main.3c2c778f.chunk.css",
-    "main.js": "/Fibonatix/static/js/main.a74c3c6b.chunk.js",
-    "main.js.map": "/Fibonatix/static/js/main.a74c3c6b.chunk.js.map",
+    "main.js": "/Fibonatix/static/js/main.adf730d1.chunk.js",
+    "main.js.map": "/Fibonatix/static/js/main.adf730d1.chunk.js.map",
     "runtime-main.js": "/Fibonatix/static/js/runtime-main.f67de33e.js",
     "runtime-main.js.map": "/Fibonatix/static/js/runtime-main.f67de33e.js.map",
     "static/js/2.11fd2958.chunk.js": "/Fibonatix/static/js/2.11fd2958.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.f67de33e.js",
     "static/js/2.11fd2958.chunk.js",
     "static/css/main.3c2c778f.chunk.css",
-    "static/js/main.a74c3c6b.chunk.js"
+    "static/js/main.adf730d1.chunk.js"
   ]
 }
